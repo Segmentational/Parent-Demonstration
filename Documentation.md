@@ -1,0 +1,1 @@
+- [`.gitlab-ci.yml` **Reference**](https://docs.gitlab.com/ee/ci/yaml/#keyword-reference-for-the-gitlab-ciyml-file) 
